@@ -5,3 +5,7 @@
 ## 파일 사용 규칙
 
 - 실습에서 사용하는 파일은 **READ.md** 파일만 사용합니다.
+
+## 커밋 컨벤션
+
+- [COMMIT_CONVENTION.md](docs/COMMIT_CONVENTION.md)
